@@ -428,6 +428,7 @@ phone numbers.
 * [behave-django](https://github.com/behave/behave-django) - Behave BDD integration for Django
 * [django-behave](https://github.com/django-behave/django-behave/) - TestRunner for the Behave BDD module.
 * [django-dynamic-fixture](https://github.com/paulocheque/django-dynamic-fixture) - A complete library to create dynamic model instances for testing purposes.
+* [django-dynamic-fixtures](https://github.com/Peter-Slump/django-dynamic-fixtures) - Maintain a set of data to fill your initial test/development database.
 * [django-faker](https://github.com/joke2k/django-faker/) - Fake-factory to generate test data.
 * [django-jenkins](https://github.com/kmmbvnr/django-jenkins) - Plug and play continuous integration with django and jenkins.
 * [django-nose](https://github.com/django-nose/django-nose/) - Test runner using nose.
